@@ -1,0 +1,3 @@
+[submodule "NaiveBayesModel"]
+	path = NaiveBayesModel
+	url = https://github.com/cctong-castiel/NaiveBayesModel.git
